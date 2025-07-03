@@ -71,7 +71,7 @@ I build scalable data pipelines, predictive models, and insightful dashboards to
 Let's collaborate on impactful data-driven solutions.
 
 - 📧 [scharan@mywebemails.com](mailto:scharan@mywebemails.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tallapellisai/)
 
 ---
 
