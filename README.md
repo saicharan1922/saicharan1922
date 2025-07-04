@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tallapellisai/)
 [![Email](https://img.shields.io/badge/Email-saicharan1922@gmail.com-blue)](mailto:saicharan1922@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/saicharan1922?label=Follow&style=social)](https://github.com/saicharan1922)
 
 ---
 
