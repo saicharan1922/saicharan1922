@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sai Charan Tallapelli
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-sch…@mywebemails.com-blue)](mailto:scharan@mywebemails.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tallapellisai/)
+[![Email](https://img.shields.io/badge/Email-saicharan1922@gmail.com-blue)](mailto:saicharan1922@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/saicharan1922?label=Follow&style=social)](https://github.com/saicharan1922)
 
 ---
@@ -66,14 +66,6 @@ I build scalable data pipelines, predictive models, and insightful dashboards to
 
 ---
 
-### 📫 **Connect with me**
-
-Let's collaborate on impactful data-driven solutions.
-
-- 📧 [scharan@mywebemails.com](mailto:scharan@mywebemails.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tallapellisai/)
-
----
 
 _“Turning data into business value, insights into action, and ideas into scalable solutions.”_
 
