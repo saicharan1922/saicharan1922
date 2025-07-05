@@ -20,13 +20,13 @@ I build scalable data pipelines, predictive models, and insightful dashboards to
 
 ### 🔥 **Key Skills**
 
-** Programming & Scripting :** Python (Pandas, NumPy, Scikit-Learn, TensorFlow), SQL (Complex Joins, CTEs, Window Functions), R, Bash/Shell Scripting  
-** Data Visualization :**  Power BI, Tableau, Excel (Pivot Tables, VLOOKUP, Macros, PowerPivot), Google Sheets  
-** Database Management :**  MySQL, MS SQL Server, PostgreSQL, Snowflake, Amazon Redshift  
-** Cloud Technologies :**  AWS (EC2, S3, Lambda, Glue), Azure Synapse Analytics, Google BigQuery  
-** Machine Learning :**  Scikit-Learn, TensorFlow, Prophet, ARIMA, Random Forest, Gradient Boosting  
-** ETL & Data Pipeline Tools :**  Apache Airflow, AWS Glue, Data Wrangling, Data Mining, Data Modeling  
-** Project Management :**  JIRA, Confluence, Kanban, Scrum, Trello, Git, Docker, CI/CD
+**Programming & Scripting** : Python (Pandas, NumPy, Scikit-Learn, TensorFlow), SQL (Complex Joins, CTEs, Window Functions), R, Bash/Shell Scripting  
+**Data Visualization** : Power BI, Tableau, Excel (Pivot Tables, VLOOKUP, Macros, PowerPivot), Google Sheets  
+**Database Management** : MySQL, MS SQL Server, PostgreSQL, Snowflake, Amazon Redshift  
+**Cloud Technologies** : AWS (EC2, S3, Lambda, Glue), Azure Synapse Analytics, Google BigQuery  
+**Machine Learning** : Scikit-Learn, TensorFlow, Prophet, ARIMA, Random Forest, Gradient Boosting  
+**ETL & Data Pipeline Tools** : Apache Airflow, AWS Glue, Data Wrangling, Data Mining, Data Modeling  
+**Project Management** : JIRA, Confluence, Kanban, Scrum, Trello, Git, Docker, CI/CD
 
 ---
 
