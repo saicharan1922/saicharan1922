@@ -36,7 +36,7 @@ I build scalable data pipelines, predictive models, and insightful dashboards to
 |------------|----------------|----------------|
 | [Spotify-Snowflake ETL](https://github.com/saicharan1922/Spotify-Snowflake-ETL-Cloud-Based-Playlist-Analytics.git) | Built an automated ETL pipeline to analyze Spotify playlist data in near real-time, enabling top artist and song insights. | PySpark, AWS Lambda, Glue, Snowflake, Power BI |
 | [YouTube Trending Analysis](https://github.com/saicharan1922/YouTube-Trending-Analysis-Cloud-Data-Engineering-Project.git) | Designed a serverless data pipeline processing YouTube trending video data with interactive dashboards for regional trends. | AWS Glue, S3, Lambda, Athena, QuickSight |
-| [Online Shopper Purchase Prediction]((https://github.com/saicharan1922/Online-Shopper-Purchase-Prediction-Classification-Project.git) | Developed ML models to predict high purchase intent users with 93% recall for targeted marketing strategies. | Python, Logistic Regression, Random Forest, SMOTE |
+| [Online Shopper Purchase Prediction](https://github.com/saicharan1922/Online-Shopper-Purchase-Prediction-Classification-Project.git) | Developed ML models to predict high purchase intent users with 93% recall for targeted marketing strategies. | Python, Logistic Regression, Random Forest, SMOTE |
 | [SQL Practice](https://github.com/saicharan1922/SQL-Practice) | Repository of advanced SQL challenges covering window functions, CTEs, and optimization. | SQL Server, PostgreSQL |
 
 ---
